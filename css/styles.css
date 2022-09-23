@@ -70,7 +70,7 @@ p{
 
 /* buttons */
 .download-button {
-  margin: 10% 3% 5% 0;
+  margin: 0% 3% 5% 0;
 }
 
 /* features */
@@ -145,13 +145,11 @@ p{
 /* call to action */
 #cta{
   background-color:#ff4c68;
-
   font-weight:600;
   margin-top:100px 0 auto 0;
 }
 
 .cta-heading{
-  margin-bottom: 0;
   padding:7% 15%;
   color: #fff;
   font-weight: bold;
