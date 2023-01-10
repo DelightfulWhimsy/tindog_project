@@ -2,6 +2,13 @@ body {
   font-family: "Montserrat";
   text-align:center;
 }
+section {
+    height: 100vh; /* 100% of the viewport height */
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box; /* include padding and border in the section's total width */
+  }
+
 h2,h3{
     font-family:"Montserrat";
 }
